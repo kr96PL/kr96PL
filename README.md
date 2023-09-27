@@ -10,7 +10,7 @@ I work as Software Enginner since May 2021.
 - React
 - MySQL
 
-🌱 I’m currently learning Docker
+🌱 I’m currently learning Docker and NoSQL databases.
 
 📁 My projects:
 - [Asosp.pl](https://asosp.pl) - Application for volunteer fire department for management of mass events service 🔥;
