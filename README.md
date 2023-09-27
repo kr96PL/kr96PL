@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Kacper and I am student of last year of Computer Science at University of Technology. 
+
 I work as Software Enginner since May 2021.
 <!--
 **kr96PL/kr96PL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
