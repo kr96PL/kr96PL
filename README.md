@@ -1,19 +1,17 @@
 ### Hi there 👋
 
-My name is Kacper and I am student of last year of Computer Science at University of Technology. 
-
+My name is Kacper and I am student of last year of Computer Science at University of Technology.
 I work as Software Enginner since May 2021.
-<!--
-**kr96PL/kr96PL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 I’m currently working in current technologies:
+- PHP (Prestashop, Laravel, Wordpress)
+- JavaScript
+- Python
+- React
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Docker
+
+📁 My projects:
+- [Asosp.pl](https://asosp.pl) - Application for volunteer fire department for management of mass events service 🔥;
+- Multiplayer paintball game created with Unity and Netcode for GameObjects library.
