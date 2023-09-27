@@ -13,7 +13,7 @@ I work as Software Enginner since May 2021.
 🌱 I’m currently learning Docker and NoSQL databases.
 
 📁 My projects:
-- Application for volunteer fire department for management of mass events service 🔥;
+- Application for volunteer fire department for management of mass events service created with Laravel 🔥;
 - Multiplayer paintball game created with Unity and Netcode for GameObjects library.
 
 📫 How to reach me: [linkedin](https://pl.linkedin.com/in/kacper-rutkowski-b374981b0)
