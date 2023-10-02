@@ -5,9 +5,8 @@ I work as Software Enginner since May 2021.
 
 💻 I’m currently working in technologies like:
 - PHP (Prestashop, Laravel, Wordpress)
-- JavaScript
+- JavaScript (React, Vue, jQuery)
 - Python
-- React
 - MySQL
 
 🌱 I’m currently learning Docker and NoSQL databases.
