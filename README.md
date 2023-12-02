@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is Kacper and I work as Software Enginner since May 2021.
+
 I have Master of Engineering degree in Computer Science earned at Gdańsk University of Technology in 2023.
 
 💻 I’m currently working in technologies like:
