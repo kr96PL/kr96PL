@@ -19,4 +19,4 @@ My name is Kacper and I work as Software Enginner since May 2021.
 
 Link: https://myjniasopot.pl/
 
-📫 How to reach me: [linkedin](www.linkedin.com/in/kacper-rutkowski-b374981b0)
+📫 How to reach me: [linkedin](https://www.linkedin.com/in/kacper-rutkowski-b374981b0/)
