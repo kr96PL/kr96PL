@@ -13,7 +13,7 @@ My name is Kacper and I work as Software Enginner since May 2021.
 🌱 I’m currently learning Docker and NoSQL databases.
 
 📁 My projects:
-- Application for volunteer fire department for management of mass events service created with Laravel 🔥;
+- Application for volunteer fire department for management of mass events, created with Laravel 10 🔥;
 - Multiplayer paintball game created with Unity and Netcode for GameObjects library.
 - Car wash website with cms, created with Laravel 10 🚗
 
