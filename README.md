@@ -10,13 +10,11 @@ My name is Kacper and I work as Software Enginner since May 2021.
 - Python
 - MySQL
 
-🌱 I’m currently learning Docker and NoSQL databases.
-
 📁 My projects:
-- Application for volunteer fire department for management of mass events, created with Laravel 10 🔥;
+- Application for volunteer fire department for management of mass events, created with Laravel 10 🔥
 - Multiplayer paintball game created with Unity and Netcode for GameObjects library.
-- Car wash website with cms, created with Laravel 10 🚗
-
-Link: https://myjniasopot.pl/
+- Website for company creating garden furniture, created with Laravel 11 and Livewire 3 (https://krmsendacki.pl)
+- Website for car wash with custom cms, created with Laravel 11 and Livewire 3 (https://myjniasopot.pl)
+- Website for electricians with custom cms, created with Laravel 11 and Livewire 3 (https://werwainstalacje.pl) 
 
 📫 How to reach me: [linkedin](https://www.linkedin.com/in/kacper-rutkowski-b374981b0/)
